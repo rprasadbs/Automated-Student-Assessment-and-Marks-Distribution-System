@@ -1,0 +1,6 @@
+shiny
+shinydashboard
+DBI
+RSQLite
+tidyverse
+igraph
